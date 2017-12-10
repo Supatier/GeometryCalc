@@ -1,0 +1,9 @@
+{
+	"name": "geocalc",
+	"authors": [
+		"supatier@gmail.com"
+	],
+	"description": "Simple Geometry Calculator",
+	"copyright": "Copyright © 2017, supatier@gmail.com",
+	"license": "MPL-2.0"
+}
